@@ -6,24 +6,24 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 亲爱的芃芃
-brief-intro: Full Stack Designer
+title: 大山爱吃饼
+brief-intro: 进击的公卫人
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "dearpengpeng.github.io" # the base hostname & protocol for your site
+url: "https://alexshanjiang.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  dearpengpeng
-email: xuliu0128@gmail.com
-weibo_username: 
-zhihu_username: 
+github_username:alexshanjiang
+email:mingshan1018@gmail.com
+weibo_username: 大山爱吃饼
+zhihu_username: 姜大山
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 用设计改变世界！
+description_footer: 进击的公卫人
 
 # comments
 # two ways to comment, only choose one, and use your own short name
